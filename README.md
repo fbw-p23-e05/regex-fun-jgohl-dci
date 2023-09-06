@@ -2,7 +2,7 @@
 
 ## Tasks:
 
-1. Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9).
+1. Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9). ???????
 
 2. Write a Python program that matches a string that has an a followed by zero or more b's.
 
@@ -28,7 +28,7 @@
 
 13. Write a Python program that matches a word containing 'z', not the start or end of the word.
 
-14. Write a Python program to match a string that contains only upper and lowercase letters, numbers, and underscores.
+14. Write a Python program to match a string that contains only upper and lowercase letters, numbers, and underscores. ???????
 
 15. Write a Python program that starts each string with a specific number.
 
