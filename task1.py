@@ -1,5 +1,5 @@
 import re
 
-text = "whatever153"
+text = "___whatever153"
 
-print(re.search('(\w|\d)?', text))
+print(re.search('[a-z]|[0-9]|[A-Z]', text))
