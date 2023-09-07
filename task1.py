@@ -2,4 +2,4 @@ import re
 
 text = "___whatever153"
 
-print(re.search('[a-z]|[0-9]|[A-Z]', text))
+print(re.search('[a-z0-9A-Z]', text))
