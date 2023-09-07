@@ -1,5 +1,5 @@
 import re
 
-text = "ccccccabbbc"
+text = "ccccccabbbbc"
 
-print(re.search("a(b{3})", text))
+print(re.search("ab{3}", text))
