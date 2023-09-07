@@ -1,5 +1,5 @@
 import re
 
-text = "ccccccabc"
+text = "ccccccabbc"
 
-print(re.search("ab?c", text))
+print(re.search("ab?", text))
