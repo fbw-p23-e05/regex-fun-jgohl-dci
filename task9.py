@@ -1,5 +1,5 @@
 import re
 
-text = "ccccccacccxxxc HHhhhhh_ avvvvvhb"
+text = "ccccccacccxxxcb HHhhhhh_ avvvvvhb"
 
-print(re.search("a.*(b$)", text))
+print(re.search("a.+b$", text))
