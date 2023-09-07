@@ -1,5 +1,5 @@
 import re
 
-text = "xelloccccccacccxxxc HHhhhhh_ avvvvvhbhello."
+text = "xelloccccccacccxxxc HHhhhhh_ avvvvvhbhello!."
 
-print(re.search("hello\W$", text))
+print(re.search("\w+(\W*)$", text))
